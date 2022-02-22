@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Javad Shamsi
 role: Professor of Artificial Intelligence
 bio: I have no research interest
 interests:

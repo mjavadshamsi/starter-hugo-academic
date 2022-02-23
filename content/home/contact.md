@@ -12,26 +12,17 @@ title: Contact
 subtitle:
 
 content:  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
   email: m.shamsi@lse.ac.uk
   address:
-    street: 450 Serra Mall
+    street: 32L.4.06
     city: Houghton Street, London WC2A 2AE
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/mjavadshamsi'
     - icon: video
       icon_pack: fas
       name: Zoom Me

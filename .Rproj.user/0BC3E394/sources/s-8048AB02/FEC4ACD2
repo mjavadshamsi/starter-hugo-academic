@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/starter-hugo-academic/config/_default/params.yaml",
     "project_path": "config/_default/params.yaml",
     "type": "yaml",
-    "hash": "2034399780",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1645631085986.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "34,12",
-        "scrollLine": "26"
+        "cursorPosition": "20,53",
+        "scrollLine": "10"
     },
     "folds": "",
     "lastKnownWriteTime": 1645631174,

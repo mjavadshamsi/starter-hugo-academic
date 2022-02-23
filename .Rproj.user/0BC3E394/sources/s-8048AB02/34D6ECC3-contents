@@ -33,10 +33,10 @@ education:
       institution: London School of Economics
       year: 2018-20
     - course: MSc in Economics
-      institution: Sharif School of Technology, 
+      institution: Sharif University of Technology, 
       year: 2015-17
     - course: BSc in Mechanical Engineering
-      institution: Sharif School of Technology
+      institution: Sharif University of Technology
       year: 2011-15
 email: m.shamsi@lse.ac.uk
 superuser: true

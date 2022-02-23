@@ -1,0 +1,26 @@
+{
+    "id": "F4306153",
+    "path": "~/Documents/GitHub/starter-hugo-academic/config/_default/params.yaml",
+    "project_path": "config/_default/params.yaml",
+    "type": "yaml",
+    "hash": "2610196997",
+    "contents": "",
+    "dirty": false,
+    "created": 1645649864508.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,15",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1645649920,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645649920123,
+    "read_only": false,
+    "read_only_alternatives": []
+}

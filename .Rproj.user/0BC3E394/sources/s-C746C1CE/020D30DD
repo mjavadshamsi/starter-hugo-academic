@@ -1,12 +1,12 @@
 {
-    "id": "67E9E214",
-    "path": "~/Documents/GitHub/starter-hugo-academic/go.mod",
-    "project_path": "go.mod",
-    "type": "text",
-    "hash": "0",
+    "id": "020D30DD",
+    "path": "~/Documents/GitHub/starter-hugo-academic/config/_default/menus.yaml",
+    "project_path": "config/_default/menus.yaml",
+    "type": "yaml",
+    "hash": "3962057329",
     "contents": "",
     "dirty": false,
-    "created": 1645630629594.0,
+    "created": 1645649863770.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
@@ -14,11 +14,11 @@
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1645552623,
+    "lastKnownWriteTime": 1645649359,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1645552623,
+    "last_content_update": 1645649359,
     "read_only": false,
     "read_only_alternatives": []
 }

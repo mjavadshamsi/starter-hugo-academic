@@ -29,12 +29,12 @@ education:
     - course: PhD in Economics
       institution: London School of Economics, 2020-24
       year: ""
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MRes in Economics
+      institution: London School of Economics, 2018-20
+      year: ""
+    - course: MSc in Economics
+      institution: Sharif School of Technology, 2015-2017
+      year: ""
     - course: BSc in Mechanical Engineering
       institution: Sharif School of Technology
       year: ""

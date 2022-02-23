@@ -3,9 +3,9 @@ title: Javad Shamsi
 role: Professor of Artificial Intelligence
 bio: I have no research interest
 interests:
-  - Economics
-  - Computational Linguistics
-  - Information Retrieval
+  - Development Economics
+  - Political Economy
+  - Labour Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,12 +36,11 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+    - course: BSc in Mechanical Engineering
+      institution: Sharif School of Technology
+      year: ""
+email: m.shamsi@lse.ac.uk
 superuser: true
 highlight_name: true
 ---
-Javad Shamsi is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD candidate in Economics at the London School of Economics and Political Science, where I received my MRes in 2020. Before joining LSE, I received my BSc and MSc from the Sharif University of Technology.  My research interests lie in the field of applied econometrics. I am interested in using empirical methods to answer questions across a broad range of topics.  Currently, I am studying political economy effects of immigration.

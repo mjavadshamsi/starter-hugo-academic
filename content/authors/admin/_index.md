@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: m.shamsi@lse.ac.uk
+    link: mailto:m.shamsi@lse.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mjavadshamsi
@@ -17,18 +17,18 @@ social:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mjavadshamsi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/javad-shamsi-66197358/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: London School of Economics
+    url: https://www.lse.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Economics
+      institution: London School of Economics, 2020-24
+      year: ""
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009

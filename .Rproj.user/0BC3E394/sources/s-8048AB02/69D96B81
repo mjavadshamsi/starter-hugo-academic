@@ -1,14 +1,14 @@
 {
-    "id": "7CAB9C4A",
-    "path": "~/Documents/GitHub/starter-hugo-academic/LICENSE.md",
-    "project_path": "LICENSE.md",
-    "type": "markdown",
-    "hash": "898579066",
+    "id": "69D96B81",
+    "path": "~/Documents/GitHub/starter-hugo-academic/config/_default/menus.yaml",
+    "project_path": "config/_default/menus.yaml",
+    "type": "yaml",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1645630634822.0,
+    "created": 1645631065227.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source"

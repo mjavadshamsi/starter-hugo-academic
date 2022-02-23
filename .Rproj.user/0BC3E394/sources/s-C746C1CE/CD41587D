@@ -1,9 +1,9 @@
 {
     "id": "CD41587D",
-    "path": "~/Documents/GitHub/starter-hugo-academic/content/home/talks.md",
-    "project_path": "content/home/talks.md",
+    "path": "~/Documents/GitHub/starter-hugo-academic/content/home/teaching.md",
+    "project_path": "content/home/teaching.md",
     "type": "markdown",
-    "hash": "1644877777",
+    "hash": "0",
     "contents": "",
     "dirty": true,
     "created": 1645650353827.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,0",
+        "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1645650668586,
+    "last_content_update": 1645650460,
     "read_only": false,
     "read_only_alternatives": []
 }

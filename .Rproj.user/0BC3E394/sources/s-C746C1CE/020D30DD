@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/starter-hugo-academic/config/_default/menus.yaml",
     "project_path": "config/_default/menus.yaml",
     "type": "yaml",
-    "hash": "2706304848",
+    "hash": "3138465177",
     "contents": "",
     "dirty": false,
     "created": 1645649863770.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,19",
-        "scrollLine": "4"
+        "cursorPosition": "19,19",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1645650962,
+    "lastKnownWriteTime": 1645651077,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1645650962641,
+    "last_content_update": 1645651077600,
     "read_only": false,
     "read_only_alternatives": []
 }

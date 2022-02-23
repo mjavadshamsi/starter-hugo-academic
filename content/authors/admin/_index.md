@@ -3,7 +3,7 @@ title: Javad Shamsi
 role: Professor of Artificial Intelligence
 bio: I have no research interest
 interests:
-  - Artificial Intelligence
+  - Economics
   - Computational Linguistics
   - Information Retrieval
 social:

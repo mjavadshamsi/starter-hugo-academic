@@ -1,6 +1,6 @@
 ---
 title: Javad Shamsi
-role: Professor of Artificial Intelligence
+role: PhD Student in Economics
 bio: I have no research interest
 interests:
   - Development Economics
@@ -12,10 +12,9 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/mjavadshamsi
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -43,3 +42,4 @@ email: m.shamsi@lse.ac.uk
 superuser: true
 highlight_name: true
 ---
+I am a PhD candidate in Economics at the London School of Economics and Political Science, where I received my MRes in 2020. Before joining LSE, I received my BSc and MSc from the Sharif University of Technology.  My research interests lie in the field of applied econometrics. I am interested in using empirical methods to answer questions across a broad range of topics.  Currently, I am studying the political economy effects of immigration.

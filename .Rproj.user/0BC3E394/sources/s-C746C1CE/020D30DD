@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/starter-hugo-academic/config/_default/menus.yaml",
     "project_path": "config/_default/menus.yaml",
     "type": "yaml",
-    "hash": "3444167506",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1645649863770.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,13",
+        "cursorPosition": "10,8",
         "scrollLine": "4"
     },
     "folds": "",

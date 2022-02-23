@@ -33,7 +33,7 @@ education:
       institution: London School of Economics, 2018-20
       year: ""
     - course: MSc in Economics
-      institution: Sharif School of Technology, 2015-2017
+      institution: Sharif School of Technology, // 2015-2017
       year: ""
     - course: BSc in Mechanical Engineering
       institution: Sharif School of Technology

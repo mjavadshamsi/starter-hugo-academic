@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blak
+widget: featured
 
 # This file represents a page section.
 headless: true
@@ -12,6 +12,6 @@ weight: 60
 title: CV
 subtitle: ""
 
-
+content:
   {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}
 ---

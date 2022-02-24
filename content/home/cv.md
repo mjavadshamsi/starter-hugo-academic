@@ -16,3 +16,6 @@ subtitle: ""
 design:
 
 ---
+**Publication:**
+
+1. Immigration Backlash: The Political Consequences of Open Borders

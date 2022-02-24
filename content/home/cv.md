@@ -14,6 +14,10 @@ subtitle: ""
 
 
 design:
+  columns: 2
+
+
+
 <section id="cv" class="home-section">
     <div class="container">
       

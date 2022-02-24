@@ -17,12 +17,6 @@ design:
   columns: 2
 
 
-
-<section id="cv" class="home-section">
-    <div class="container">
-      
-
-
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
     <h1>CV</h1>
@@ -42,6 +36,4 @@ design:
   </div>
 </div>
 
-    </div>
-  </section>
 ---

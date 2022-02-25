@@ -24,8 +24,7 @@ design:
 
 * Labour Market Dynamics and Political Change in the Europe\
   with Tim Besley and Torsten Persson
-<p>&nbsp;</p>
-
+<p></p>
 * Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand
   Protests\
   with Azhar Hussain

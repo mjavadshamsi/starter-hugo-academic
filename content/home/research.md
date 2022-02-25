@@ -14,8 +14,6 @@ subtitle: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-  spacing:
-    padding: ["20px", "0", "20px", "0"]  
 
 ---
 # Working Papers
@@ -26,8 +24,7 @@ design:
 
 * Labour Market Dynamics and Political Change in the Europe\
   with Tim Besley and Torsten Persson
-
-
+<p>&nbsp;</p>
 * Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand
   Protests\
   with Azhar Hussain

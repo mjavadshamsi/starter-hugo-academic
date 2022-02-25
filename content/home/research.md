@@ -13,14 +13,12 @@ title: Research
 subtitle: ""
 
 
-design:
-
 ---
-#Working Papers:
+# Working Papers
 
 * Immigration Backlash: The Political Consequences of Open Borders (draft available upon request)
 
-#Work in Progress:
+# Work in Progress
 
 * Labour Market Dynamics and Political Change in the Europe 
 with Tim Besley and Torsten Persson

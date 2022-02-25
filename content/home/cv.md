@@ -16,6 +16,5 @@ subtitle: ""
 design:
 
 ---
-**Publication:**
 
-1. Immigration Backlash: The Political Consequences of Open Borders
+> You can download my CV[ here ](wwww.javadshamsi.com/uploads/cv.pdf)

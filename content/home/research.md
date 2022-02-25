@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -11,12 +11,9 @@ weight: 65
 
 title: Research
 subtitle: ""
-
-beamer_presentation:
-    keep_tex: true
-header-includes:
-  - \renewcommand{\tightlist}{\setlength{\itemsep}{5ex}\setlength{\parskip}{0pt}}
-
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 
 ---
 # Working Papers

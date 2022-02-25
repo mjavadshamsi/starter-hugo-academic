@@ -17,4 +17,4 @@ design:
 
 ---
 
-You can download my CV  [ here ](/uploads/cv.pdf) [![CV](logo/rsz_cv-logo.png)](/uploads/cv.pdf)
+> You can download my CV  [ here ](/uploads/cv.pdf)

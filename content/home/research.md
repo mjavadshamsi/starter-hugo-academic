@@ -16,16 +16,16 @@ design:
   columns: '2'
 
 ---
-# Working Papers
+## Working Papers
 
-* Immigration Backlash: The Political Consequences of Open Borders (draft available upon request)
+* Immigration Backlash: The Political Consequences of Open Borders. (draft available upon request)
 
-# Work in Progress
+## Work in Progress
 
-* Labour Market Dynamics and Political Change in the Europe\
+* Labour Market Dynamics and Political Change in the Europe.\
   with Tim Besley and Torsten Persson
 <p></p>
 
 * Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand
-  Protests\
+  Protests.\
   with Azhar Hussain

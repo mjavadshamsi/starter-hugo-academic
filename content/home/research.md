@@ -24,7 +24,7 @@ subtitle: ""
 with Tim Besley and Torsten Persson
 
 * Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand
-Protests \
+Protests \ <br>
 with Azhar Hussain
 
 

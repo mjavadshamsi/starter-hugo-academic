@@ -17,4 +17,4 @@ design:
 
 ---
 
-> You can download my CV  [ here ](/uploads/cv.pdf) [![CV](logo/cv-logo.png)](/uploads/cv.pdf){width=10px}
+> You can download my CV  [ here ](/uploads/cv.pdf) [![CV](logo/cv-logo.png){width=10px}](/uploads/cv.pdf)

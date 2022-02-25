@@ -12,7 +12,7 @@ weight: 70
 title: Teaching
 subtitle: ''
 
-content:
+
 * London School of Economics 
 
   * EC221 Principle of Econometrics, 2021-22

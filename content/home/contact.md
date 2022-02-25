@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Talking is better with coffee.
 
 content:  
   # Contact details (edit or remove options as required)

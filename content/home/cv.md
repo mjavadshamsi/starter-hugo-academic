@@ -17,4 +17,4 @@ design:
 
 ---
 
-> You can download my CV  [ here ](wwww.javadshamsi.com/uploads/cv.pdf)
+> You can download my CV  [ here ](/uploads/cv.pdf)

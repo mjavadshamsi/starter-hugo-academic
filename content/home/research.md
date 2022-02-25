@@ -12,6 +12,11 @@ weight: 65
 title: Research
 subtitle: ""
 
+beamer_presentation:
+    keep_tex: true
+header-includes:
+  - \renewcommand{\tightlist}{\setlength{\itemsep}{5ex}\setlength{\parskip}{0pt}}
+
 
 ---
 # Working Papers

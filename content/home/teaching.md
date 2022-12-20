@@ -8,6 +8,7 @@ subtitle: ""
 ---
 * London School of Economics 
 
+  * EC101 Introductory Micro (Teacher Evaluation 4.6/5), Summer 2022
   * EC221 Principle of Econometrics (Teacher Evaluation 4.6/5), 2021-22
   * EC220 Introduction to Econometrics (Teacher Evaluation 4.4/5), 2020-21
   * EC100 Economics A (Teacher Evaluation 4.5/5), 2019-20

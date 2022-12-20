@@ -1,20 +1,12 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# This file represents a page section.
+widget_id: research
 headless: true
-
-# Order that this section appears on the page.
 weight: 65
-
 title: Research
 subtitle: ""
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
-
+  columns: "2"
 ---
 ## Working Papers
 
@@ -22,10 +14,9 @@ design:
 
 ## Work in Progress
 
+* Estimating the effect of online food delivery apps on consumers and businesses
 * Labour Market Dynamics and Political Change in the Europe.\
-  with Tim Besley and Torsten Persson
-<p></p>
-
+    with Tim Besley and Torsten Persson
 * Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand
   Protests.\
   with Azhar Hussain

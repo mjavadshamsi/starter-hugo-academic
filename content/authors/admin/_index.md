@@ -33,7 +33,7 @@ education:
       institution: London School of Economics
       year: 2018-20
     - course: MSc in Economics
-      institution: Sharif University of Technology, 
+      institution: Sharif University of Technology,
       year: 2015-17
     - course: BSc in Mechanical Engineering
       institution: Sharif University of Technology
@@ -43,4 +43,4 @@ superuser: true
 highlight_name: true
 ---
 Welcome!\
-I am a PhD candidate in Economics at the London School of Economics and Political Science, where I received my MRes in 2020. Before joining LSE, I received my BSc and MSc from the Sharif University of Technology.  My research interests lie in the field of applied econometrics. I am interested in using empirical methods to answer questions across a broad range of topics.  Currently, I am studying the political economy effects of immigration.
+I am a PhD candidate in Economics at the London School of Economics and Political Science and a PhD Scholar at the Institute for Fiscal Studies. I received my MRes from LSE in 2020. Before joining LSE, I obtained a BSc and an MSc from the Sharif University of Technology. My research interests lie in the field of applied econometrics. I am interested in using empirical methods to answer questions across a broad range of topics. Currently, I am studying the political economy effects of immigration.

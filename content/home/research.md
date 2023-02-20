@@ -11,7 +11,7 @@ design:
 ## Working Papers
 
 * Immigration Backlash: The Political Consequences of Open Borders. (draft available upon request)
-* Sanctioned Performance: An Evaluation of the Effectiveness of Sanctions on Iranian Firms (draft available upon request)
+* Sanctions Performance: An Evaluation of the Effectiveness of Sanctions on Iranian Firms (draft available upon request)
 
 ## Work in Progress
 

@@ -50,4 +50,4 @@ My academic journey has led me through various institutions, including Princeton
 
 
 
-My research interests in the field of applied microeconomics, where I utilize empirical methods to explore diverse topics. Currently, my studies are concentrated on investigating the labour market dynamics and the political economy implications of immigration.
+My research interests are in applied microeconomics, where I utilize empirical methods to explore diverse topics. Currently, my studies are concentrated on investigating the labour market dynamics and the political economy implications of immigration.

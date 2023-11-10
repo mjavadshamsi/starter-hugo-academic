@@ -6,7 +6,7 @@ weight: 70
 title: Teaching
 subtitle: ""
 ---
-I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.
+<p style="font-size: 18px;"> I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.<p style="font-size: 16px;">
 
   * <p style="font-size: 16px;">EC101 Introductory Micro (Teacher Evaluation 4.95/5), Summer 2023</p>
   * <p style="font-size: 16px;">EC202 Intermediate Macro (Teacher Evaluation 4.93/5), Summer 2023</p>

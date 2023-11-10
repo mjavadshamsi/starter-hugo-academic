@@ -41,7 +41,7 @@ email: m.shamsi@lse.ac.uk
 superuser: true
 highlight_name: true
 ---
-Welcome!\
+Welcome!
 
 
 <p style="font-size: 18px; text-align: justify;">

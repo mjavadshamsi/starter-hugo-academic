@@ -21,7 +21,7 @@ design:
 
 <p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: </p>
 
-<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
+<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 10px;">
     Immigration Backlash: The Political Consequences of Open Borders. (draft available upon request)
 </p>
 

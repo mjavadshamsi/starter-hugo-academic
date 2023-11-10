@@ -10,7 +10,7 @@ design:
 ---
 ## Working Papers
 
-<br> <!-- This line adds extra space -->
+<div style="margin-top: 10px;"></div>
 
 [Understanding multi-layered sanctions: A firm-level analysis](https://cep.lse.ac.uk/_NEW/publications/abstract.asp?index=10531)
 

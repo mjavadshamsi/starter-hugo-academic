@@ -7,7 +7,6 @@ title: Research
 subtitle: ""
 design:
   columns: "1"
-  size: "8"
 ---
 ## Working Papers
 

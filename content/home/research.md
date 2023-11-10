@@ -6,7 +6,8 @@ weight: 65
 title: Research
 subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
+  size: "8"
 ---
 ## Working Papers
 

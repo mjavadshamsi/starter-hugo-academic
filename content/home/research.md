@@ -12,7 +12,7 @@ design:
 
 
 
-<p style="font-size: 18px; text-align: justify; margin-top: 10px; margin-bottom: 5px;">
+<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
     <a href="https://cep.lse.ac.uk/_NEW/publications/abstract.asp?index=10531" style="font-size: 18px; text-align: justify;">
         Understanding multi-layered sanctions: A firm-level analysis
     </a>
@@ -21,14 +21,14 @@ design:
 
 <p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: </p>
 
-Immigration Backlash: The Political Consequences of Open Borders. (draft available upon request)
+<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
+    Immigration Backlash: The Political Consequences of Open Borders. (draft available upon request)
+</p>
+
 
 
 ## <p style="font-size: 22px;">  Work in Progress </p>
 
 * <p style="font-size: 16px;"> Estimating the effect of online food delivery apps on consumers and businesses</p>
-* <p style="font-size: 16px;"> Labour Market Dynamics and Political Change in the Europe.\
-    with Tim Besley and Torsten Persson</p>
-* <p style="font-size: 16px;"> Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand
-  Protests.\
-  with Azhar Hussain</p>
+* <p style="font-size: 16px;"> Labour Market Dynamics and Political Change in the Europe. (with Tim Besley and Torsten Persson)</p>
+* <p style="font-size: 16px;"> Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand Protests. (with Azhar Hussain and Ranjana Sinha)</p>

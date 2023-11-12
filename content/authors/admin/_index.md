@@ -41,8 +41,11 @@ email: m.shamsi@lse.ac.uk
 superuser: true
 highlight_name: true
 ---
-Welcome!
 
+
+<p style="font-size: 18px; text-align: justify;">
+    Welcome!
+</p>
 
 <p style="font-size: 18px; text-align: justify;">
     I am currently a PhD candidate in Economics at the London School of Economics and serve as a PhD Scholar at the Institute for Fiscal Studies.

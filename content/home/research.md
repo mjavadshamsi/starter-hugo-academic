@@ -13,7 +13,7 @@ design:
 
 
 <p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
-    <a href="https://cep.lse.ac.uk/_NEW/publications/abstract.asp?index=10531" style="font-size: 18px; text-align: justify;">
+    <a href="https://javadshamsi.com/uploads/sanctions_shamsi.pdf" style="font-size: 18px; text-align: justify;">
         Understanding multi-layered sanctions: A firm-level analysis
     </a>
 </p>

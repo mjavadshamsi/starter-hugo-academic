@@ -20,6 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/javad-shamsi-66197358/
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=en&user=s3X1JicAAAAJ
+    icon_pack: fab
+    icon: scholar
 organizations:
   - name: London School of Economics
     url: https://www.lse.ac.uk/

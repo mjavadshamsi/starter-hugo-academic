@@ -23,7 +23,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.com/citations?hl=en&user=s3X1JicAAAAJ
-    icon_pack: fab
+    icon_pack: ai
     icon: google-scholar
 organizations:
   - name: London School of Economics

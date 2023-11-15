@@ -24,7 +24,7 @@ social:
       header: false
     link: https://scholar.google.com/citations?hl=en&user=s3X1JicAAAAJ
     icon_pack: fab
-    icon: scholar
+    icon: google-scholar
 organizations:
   - name: London School of Economics
     url: https://www.lse.ac.uk/

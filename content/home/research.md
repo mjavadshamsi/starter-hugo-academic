@@ -24,3 +24,11 @@ design:
 </p>
 
 ## Work in Progress
+
+
+
+<p style="font-size: 18px;"> Estimating the effect of online food delivery apps on consumers and businesses</p>
+
+<p style="font-size: 18px;"> Labour Market Dynamics and Political Change in the Europe. (with Tim Besley and Torsten Persson)</p>
+
+<p style="font-size: 18px;"> Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand Protests. (with Azhar Hussain and Ranjana Sinha)</p>

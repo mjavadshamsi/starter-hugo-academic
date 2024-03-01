@@ -46,8 +46,6 @@ email: m.shamsi@lse.ac.uk
 superuser: true
 highlight_name: true
 ---
-
-
 <p style="font-size: 18px; text-align: justify;">
     Welcome!
 </p>
@@ -57,11 +55,9 @@ highlight_name: true
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    My academic journey has led me through various institutions, including IFS (researcher), Princeton (visiting PhD student, 2023), LSE (MRes in Economics, 2018), and Sharif University (MSc in Economics, 2018, and BSc in Mechanical Engineering, 2015).
+    My academic journey has led me through various institutions, including IFS (researcher), Princeton (visiting PhD student, 2023), LSE (MRes in Economics, 2020), and Sharif University (MSc in Economics, 2018, and BSc in Mechanical Engineering, 2015).
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
     My research interests are in applied microeconomics, where I utilize empirical methods to explore diverse topics. Currently, my studies are concentrated on investigating the labour market dynamics and the political economy implications of immigration.
 </p>
-
-

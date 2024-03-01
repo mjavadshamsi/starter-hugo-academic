@@ -19,9 +19,16 @@ design:
 
 <p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: <a href="https://cepr.org/voxeu/columns/unravelling-complexities-sanctions";"> VoxEU Column</a>,<a href="https://www.tejaratefarda.com/fa/tiny/news-45767";"> Tejarate Farda</a>,<a href="https://www.rouhanihassan.com/Fa/News/104507";"> RouhaniHassan.com</a>,<a href="https://donya-e-eqtesad.com/fa/tiny/news-4049379";"> Donya-e Eghtesad</a></p>
 
-<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 10px;">
-    Immigration Backlash: The Political Consequences of Open Borders. (draft available upon request)
+
+
+
+
+<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
+    <a href="https://www.javadshamsi.com/uploads/immigration_shamsi.pdf" style="font-size: 18px; text-align: justify;">
+        Immigration and Political Realignment
+    </a>
 </p>
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> This paper examines how immigration reshapes political landscapes, centring on the influx of immigrants from the EU's 2004 enlargement and its implications for the UK. I use a new variation in exposure to immigration based on migrant flows across various industries coupled with the employment structure in each region. Addressing potential concerns of endogeneity, I introduce a novel shift-share IV design, harnessing the industry-specific flow of migrants to regions outside the UK within the pre-2004 EU. The findings reveal a significant impact on support for the right-wing UK Independence Party and the Brexit Leave campaign, accompanied by a decline in Labour Party support. Moreover, the research indicates that voters' social attitudes toward immigration become more adverse in response to immigration. Political parties, particularly Conservatives, are also observed to increasingly engage with the topic of immigration in constituencies most affected by immigration, typically marked by negative rhetoric. The paper reconciles these findings by highlighting how immigration shocks entrench immigration cleavage, realigning political conflict from traditional economic lines to new cultural dimensions.</p>
 
 ## Work in Progress
 

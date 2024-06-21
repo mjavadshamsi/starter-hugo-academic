@@ -51,7 +51,7 @@ highlight_name: true
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    I am currently a PhD candidate in Economics at the London School of Economics and serve as a PhD Scholar at the Institute for Fiscal Studies.
+    I am currently a PhD candidate in Economics at the London School of Economics and serve as a Research Officer at the Institute for Fiscal Studies.
 </p>
 
 <p style="font-size: 18px; text-align: justify;">

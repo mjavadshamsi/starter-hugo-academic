@@ -51,7 +51,7 @@ highlight_name: true
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    My academic journey has led me through various institutions, including IFS (researcher), Princeton (visiting PhD student, 2023), LSE (MRes in Economics, 2020), and Sharif University (MSc in Economics, 2018, and BSc in Mechanical Engineering, 2015).
+    My academic journey has led me through various institutions, including IFS (Research Officer), Princeton (visiting PhD student), LSE (MRes in Economics), and Sharif University (MSc in Economics, and BSc in Mechanical Engineering).
 </p>
 
 <p style="font-size: 18px; text-align: justify;">

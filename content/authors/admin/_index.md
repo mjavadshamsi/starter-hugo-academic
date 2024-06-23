@@ -47,11 +47,7 @@ superuser: true
 highlight_name: true
 ---
 <p style="font-size: 18px; text-align: justify;">
-    Welcome!
-</p>
-
-<p style="font-size: 18px; text-align: justify;">
-    I am currently a PhD candidate in Economics at the London School of Economics and serve as a Research Officer at the Institute for Fiscal Studies.
+    I am a PhD candidate in Economics at the London School of Economics and a Research Officer at the Institute for Fiscal Studies. My research interests lie in applied microeconomics. I employ a variety of methods to collect and analyze data, including web scraping, big data analytics, natural language processing, and image processing, to investigate diverse economic questions. I am currently investigating the impact of technology on the entrepreneurial landscape in the food industry.
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
@@ -59,5 +55,5 @@ highlight_name: true
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    My research interests are in applied microeconomics, where I utilize empirical methods to explore diverse topics. Currently, my studies are concentrated on investigating the labour market dynamics and the political economy implications of immigration.
+    I will be on the academic job market in the 2024/25 cycle.
 </p>

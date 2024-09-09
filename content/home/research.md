@@ -28,7 +28,7 @@ design:
 
 <p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: <a href="https://cepr.org/voxeu/columns/unravelling-complexities-sanctions";">VoxEU Column</a>, <a href="https://www.thesanctionsage.com/p/episode-4-javad-shamsi";">The Sanctions Age Podcast</a> (<a href="https://www.youtube.com/watch?v=YFoPhodCq_E";">YouTube</a>, <a href="https://open.spotify.com/episode/6icu8VQdQEIdlUy1asgUqU?si=WQl-Kr2iR1SS3H6MtluHUg";"> Spotify</a>, <a href="https://podcasts.apple.com/us/podcast/episode-4-javad-shamsi/id1740180724?i=1000653882474";"> ApplePodcast</a>), <a href="https://www.tejaratefarda.com/fa/tiny/news-45767";">Tejarate Farda</a>, <a href="https://www.rouhanihassan.com/Fa/News/104507";">RouhaniHassan.com</a>, <a href="https://donya-e-eqtesad.com/fa/tiny/news-4049379";">Donya-e Eghtesad</a>, <a href="https://www.clingendael.org/publication/limit-irans-industrial-resilience";">Clingendael</a></p>
 
-<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <em>8th Monash-Warwick-Zurich-CEPR Text-as-Data Workshop, Text-as-Data in Economics Workshop at the University of Liverpool, Political Economy, Development, and Labour seminars at LSE, UCL, TeIAS, and Princeton</em> </p>
+<p style="font-size: 14px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <em>8th Monash-Warwick-Zurich-CEPR Text-as-Data Workshop, Text-as-Data in Economics Workshop at the University of Liverpool, Political Economy, Development, and Labour seminars at LSE, UCL, TeIAS, and Princeton</em> </p>
 
 <p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
     <a href="https://www.javadshamsi.com/uploads/immigration_shamsi.pdf" style="font-size: 18px; text-align: justify;">
@@ -36,6 +36,8 @@ design:
     </a>
 </p>
 <p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> This paper examines how immigration reshapes political landscapes, centring on the influx of immigrants from the EU's 2004 enlargement and its implications for the UK. I use a new variation in exposure to immigration based on migrant flows across various industries coupled with the employment structure in each region. Addressing potential concerns of endogeneity, I introduce a novel shift-share IV design, harnessing the industry-specific flow of migrants to regions outside the UK within the pre-2004 EU. The findings reveal a significant impact on support for the right-wing UK Independence Party and the Brexit Leave campaign, accompanied by a decline in Labour Party support. Moreover, the research indicates that voters' social attitudes toward immigration become more adverse in response to immigration. Political parties, particularly Conservatives, are also observed to increasingly engage with the topic of immigration in constituencies most affected by immigration, typically marked by negative rhetoric. The paper reconciles these findings by highlighting how immigration shocks entrench immigration cleavage, realigning political conflict from traditional economic lines to new cultural dimensions.</p>
+
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <em>8th Monash-Warwick-Zurich-CEPR Text-as-Data Workshop, Text-as-Data in Economics Workshop at the University of Liverpool, Political Economy, Development, and Labour seminars at LSE, UCL, TeIAS, and Princeton</em> </p>
 
 ## Work in Progress
 

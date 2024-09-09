@@ -28,6 +28,8 @@ design:
 
 <p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: <a href="https://cepr.org/voxeu/columns/unravelling-complexities-sanctions";">VoxEU Column</a>, <a href="https://www.thesanctionsage.com/p/episode-4-javad-shamsi";">The Sanctions Age Podcast</a> (<a href="https://www.youtube.com/watch?v=YFoPhodCq_E";">YouTube</a>, <a href="https://open.spotify.com/episode/6icu8VQdQEIdlUy1asgUqU?si=WQl-Kr2iR1SS3H6MtluHUg";"> Spotify</a>, <a href="https://podcasts.apple.com/us/podcast/episode-4-javad-shamsi/id1740180724?i=1000653882474";"> ApplePodcast</a>), <a href="https://www.tejaratefarda.com/fa/tiny/news-45767";">Tejarate Farda</a>, <a href="https://www.rouhanihassan.com/Fa/News/104507";">RouhaniHassan.com</a>, <a href="https://donya-e-eqtesad.com/fa/tiny/news-4049379";">Donya-e Eghtesad</a>, <a href="https://www.clingendael.org/publication/limit-irans-industrial-resilience";">Clingendael</a></p>
 
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <em>8th Monash-Warwick-Zurich-CEPR Text-as-Data Workshop, Text-as-Data in Economics Workshop at the University of Liverpool, Political Economy, Development, and Labour seminars at LSE, UCL, TeIAS, and Princeton</em> </p>
+
 <p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
     <a href="https://www.javadshamsi.com/uploads/immigration_shamsi.pdf" style="font-size: 18px; text-align: justify;">
         Immigration and Political Realignment

@@ -13,7 +13,7 @@ design:
 <p style="font-size: 18px; font-weight: bold;">
     A New Order: Digital Disruption and Democratization of Restaurant Entrepreneurship
 </p>
-<p style="font-size: 16px; font-style: italic;">
+<p style="font-size: 16px; font-style: italic; margin-bottom: 30px;">
     Abstract and draft coming soon!
 </p>
 

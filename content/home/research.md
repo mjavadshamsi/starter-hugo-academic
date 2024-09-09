@@ -10,10 +10,10 @@ design:
 ---
 ## Job Market Paper
 
-<p style="font-size: 18px; font-weight: bold;">
+<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
     A New Order: Digital Disruption and Democratization of Restaurant Entrepreneurship
 </p>
-<p style="font-size: 16px; font-style: italic; margin-bottom: 30px;">
+<p style="font-size: 16px; font-style: italic; text-align: justify; margin-top: 1px; margin-bottom: 30px;">
     Abstract and draft coming soon!
 </p>
 

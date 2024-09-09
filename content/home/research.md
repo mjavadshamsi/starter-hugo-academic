@@ -8,7 +8,16 @@ subtitle: ""
 design:
   columns: "1"
 ---
-## Working Papers
+## Job Market Paper
+
+<p style="font-size: 18px;">
+    A New Order: Digital Disruption and Democratization of Restaurant Entrepreneurship
+</p>
+<p style="font-size: 16px; font-style: italic;">
+    Abstract and draft coming soon!
+</p>
+
+## Other Working Papers
 
 <p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
     <a href="https://javadshamsi.com/uploads/sanctions_shamsi.pdf" style="font-size: 18px; text-align: justify;">
@@ -28,8 +37,8 @@ design:
 
 ## Work in Progress
 
-<p style="font-size: 18px;"> Estimating the effect of online food delivery apps on consumers and businesses</p>
+<a href="https://www.javadshamsi.com/uploads/immigration_shamsi.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
 
-<p style="font-size: 18px;"> Labour Market Dynamics and Political Change in the Europe. (with Tim Besley and Torsten Persson)</p>
 
-<p style="font-size: 18px;"> Can Environmental Activism Raise Public Awareness? Evidence from more than Thousand Protests. (with Azhar Hussain and Ranjana Sinha)</p>
+
+<p style="font-size: 18px;">Labour Market Dynamics and Political Change in the Europe (with <a href="https://www.lse.ac.uk/economics/people/faculty/tim-besley" style="font-size: 18px; text-align: justify;">Tim Besley</a> and <a href="https://www.su.se/english/profiles/tpers-1.182602" style="font-size: 18px; text-align: justify;">Torsten Persson</a>)</p>

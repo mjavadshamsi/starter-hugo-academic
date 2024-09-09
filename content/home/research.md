@@ -41,7 +41,7 @@ design:
 
 ## Work in Progress
 
-<a href="https://www.javadshamsi.com/uploads/immigration_shamsi.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
+<a href="https://www.javadshamsi.com/uploads/climate_protest.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
 
 
 

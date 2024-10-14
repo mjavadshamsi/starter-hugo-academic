@@ -3,7 +3,9 @@ title: Javad Shamsi
 role: PhD Student in Economics
 bio: I have no research interest
 interests:
-  - Labour Economics
+  - Labor/Organizational Economics
+  - Innovation
+  - Entrepreneurship
   - Political Economy
 social:
   - icon: envelope

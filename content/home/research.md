@@ -11,10 +11,12 @@ design:
 ## Job Market Paper
 
 <p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
-    A New Order: Digital Disruption and Democratization of Restaurant Entrepreneurship
+    <a href="https://www.javadshamsi.com/uploads/shamsi_JMP.pdf" style="font-size: 18px; text-align: justify;">
+        A New Order? Digital Disruption and Entrepreneurial Opportunities
+    </a>
 </p>
-<p style="font-size: 16px; font-style: italic; text-align: justify; margin-top: 1px; margin-bottom: 30px;">
-    Abstract and draft coming soon!
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 30px;">
+    Digital marketplaces are on the rise, but it remains uncertain whether they democratize entrepreneurship or primarily benefit large firms. This paper examines this phenomenon by studying how the growth of food delivery applications—specifically UberEats and Deliveroo— impacts restaurant entrepreneurship in the UK. By constructing a novel dataset capturing the staggered expansion of these platforms and employing a dynamic difference-in-differences framework, I find that they stimulate a 35% increase in restaurant numbers over four years. This growth is driven by the entry of small and independent businesses, with migrants and ethnic minority entrepreneurs gaining disproportionately, facilitated by reduced entry costs and the diminished importance of physical location. This democratization in entrepreneurship leads to greater diversity in cuisine offerings, enriching consumer choices.
 </p>
 
 ## Other Working Papers
@@ -42,7 +44,5 @@ design:
 ## Work in Progress
 
 <a href="https://www.javadshamsi.com/uploads/climate_protest.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
-
-
 
 <p style="font-size: 18px;">Labour Market Dynamics and Political Change in the Europe (with <a href="https://www.lse.ac.uk/economics/people/faculty/tim-besley" style="font-size: 18px; text-align: justify;">Tim Besley</a> and <a href="https://www.su.se/english/profiles/tpers-1.182602" style="font-size: 18px; text-align: justify;">Torsten Persson</a>)</p>

@@ -4,8 +4,8 @@ role: PhD Student in Economics
 bio: I have no research interest
 interests:
   - Labor/Organizational
-  - Innovation \
-  - Entrepreneurship/ Political Economy
+  - Innovation/Entrepreneurship
+  - Political Economy
 social:
   - icon: envelope
     icon_pack: fas

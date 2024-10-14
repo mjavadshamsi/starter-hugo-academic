@@ -53,7 +53,7 @@ highlight_name: true
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    My academic journey has led me through various institutions, including IFS (Research Officer), Princeton (visiting PhD student), LSE (MRes in Economics), and Sharif University (MSc in Economics, and BSc in Mechanical Engineering).
+    My academic journey has led me through various institutions, including IFS (Research Officer), Princeton (visiting PhD student), LSE (MRes), and Sharif University (MSc and BSc).
 </p>
 
 <p style="font-size: 18px; text-align: justify;">

@@ -48,11 +48,11 @@ superuser: true
 highlight_name: true
 ---
 <p style="font-size: 18px; text-align: justify;">
-    I am a PhD candidate in Economics at the London School of Economics and a Research Officer at the Institute for Fiscal Studies. My research interests lie in applied microeconomics. I employ a variety of methods to collect and analyze data, including web scraping, big data analytics, natural language processing, and image processing, to investigate diverse economic questions. I am currently investigating the impact of digital technology on the entrepreneurial landscape in the food industry.
+    I am a PhD candidate in Economics at the London School of Economics and a Research Officer at the Institute for Fiscal Studies. My research interests lie in applied microeconomics, studying questions in labor markets, innovation, entrepreneurship, and political economy. I employ a variety of methods to collect and analyze data, including web scraping, big data analytics, natural language processing, and image processing, to investigate diverse economic questions.
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    My academic journey has led me through various institutions, including IFS (Research Officer), Princeton (visiting PhD student), LSE (MRes), and Sharif University (MSc and BSc).
+    My academic journey has led me through various institutions, including IFS (Research Officer), Princeton (visiting PhD student), LSE (MRes), Sharif University (MSc and BSc), and soon UC Berkeley (visiting scholar next semester).
 </p>
 
 <p style="font-size: 18px; text-align: justify;">

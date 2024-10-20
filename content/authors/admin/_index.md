@@ -56,5 +56,5 @@ highlight_name: true
 </p>
 
 <p style="font-size: 18px; text-align: justify;">
-    I will be on the academic job market in the 2024/25 cycle.
+    <b>I will be on the academic job market in the 2024/25 cycle.</b>
 </p>

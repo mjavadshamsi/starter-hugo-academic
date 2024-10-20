@@ -55,4 +55,6 @@ highlight_name: true
     My academic journey has led me through various institutions, including IFS (Research Officer), Princeton (visiting PhD student), LSE (MRes), Sharif University (MSc and BSc), and soon UC Berkeley (visiting scholar next semester).
 </p>
 
-<p style="font-size: 18px; text-align: justify; border: 2px solid #000000; padding: 5px;"> I will be on the academic job market in the 2024/25 cycle. </p>
+<p style="font-size: 18px; text-align: justify; font-family: 'Georgia', serif;">
+    I will be on the academic job market in the 2024/25 cycle.
+</p>

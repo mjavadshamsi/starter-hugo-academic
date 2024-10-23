@@ -53,7 +53,7 @@ highlight_name: true
 
 
 
-<p style="font-size: 18px; text-align: justify;"> In 2023, I visited <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Princeton University</span> as a visiting student. Next semester, I will be at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Haas Business School, UC Berkeley</span>, as a Visiting Scholar. </p>
+<p style="font-size: 18px; text-align: justify;"> In 2023, I visited <span style="font-size: 18px; font-family: 'Times New Roman', serif; font-weight: bold;">Princeton University</span> as a visiting student. Next semester, I will be at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Haas Business School, UC Berkeley</span>, as a visiting scholar. </p>
 
 
 

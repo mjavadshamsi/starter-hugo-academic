@@ -51,6 +51,8 @@ highlight_name: true
     I am a PhD candidate in Economics at the London School of Economics and a Research Officer at the Institute for Fiscal Studies. My research interests lie in applied microeconomics, studying questions in labor markets, innovation, entrepreneurship, and political economy. I employ a variety of methods to collect and analyze data, including web scraping, big data analytics, natural language processing, and image processing, to investigate diverse economic questions.
 </p>
 
-<p style="font-size: 18px; text-align: justify;"> My academic journey has led me through various institutions, including <b>IFS</b> (Research Officer), <b>Princeton</b> (visiting PhD student), <b>LSE</b> (MRes), <b>Sharif</b> (MSc and BSc), and soon <b>UC Berkeley</b> (visiting scholar next semester). </p>
+<p style="font-size: 18px; text-align: justify;"> My academic journey has led me through various institutions, including <span style="font-weight: bold;">IFS</span> (Research Officer), <span style="font-weight: bold;">Princeton</span> (visiting PhD student), <span style="font-weight: bold;">LSE</span> (MRes), <span style="font-weight: bold;">Sharif University</span> (MSc and BSc), and soon <span style="font-weight: bold;">UC Berkeley</span> (visiting scholar next semester). </p>
+
+
 
 <p style="font-size: 20px; text-align: justify; font-family: 'Georgia', serif; font-weight: bold;"> I will be on the academic job market in the 2024/25 cycle. </p>

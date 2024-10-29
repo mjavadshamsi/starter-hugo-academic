@@ -6,6 +6,7 @@ interests:
   - Labor/Organizational
   - Innovation/Entrepreneurship
   - Political Economy
+  - Urban Economics
 social:
   - icon: envelope
     icon_pack: fas

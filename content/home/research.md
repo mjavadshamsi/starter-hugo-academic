@@ -57,6 +57,13 @@ design:
 
 
 
-<a href="https://www.javadshamsi.com/uploads/climate_protest.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
+<p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
+    <a href="https://www.javadshamsi.com/uploads/climate_protest.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
+</p>
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> This paper examines the impact of climate protests on public awareness and political outcomes in the US and Europe. Using data from Google Trends and GDELT, we find that climate protests significantly elevate climate change awareness, evidenced by increased search intensity and media coverage. Analyzing the 2019 European Parliamentary elections, we demonstrate that the Fridays for Future protests led to increased support for Green parties, indicating a shift in public sentiment towards environmental priorities. Through textual analysis of UK parliamentary speeches, we further observe that protest frequency correlates with a rise in climate discourse among policymakers, highlighting the potential of climate protests to shape both public opinion and political agendas.</p>
+
+
+
+
 
 <p style="font-size: 18px;">Labour Market Dynamics and Political Change in the Europe (with <a href="https://www.lse.ac.uk/economics/people/faculty/tim-besley" style="font-size: 18px; text-align: justify;">Tim Besley</a> and <a href="https://www.su.se/english/profiles/tpers-1.182602" style="font-size: 18px; text-align: justify;">Torsten Persson</a>)</p>

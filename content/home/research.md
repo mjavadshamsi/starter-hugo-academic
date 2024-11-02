@@ -44,25 +44,19 @@ design:
 ## Work in Progress
 
 <p style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
-    The Impact of Self-Employment on Income Trajectories: Evidence from Food Delivery Platforms  (with Kate Smith, Helen Miller, and Isaac Delestre)
+    The Impact of Self-Employment on Income Trajectories: Evidence from Food Delivery Platforms  (with <a href="https://katesmith.me/" style="font-size: 18px; text-align: justify;">Kate Smith</a>, <a href="https://ifs.org.uk/people/helen-miller" style="font-size: 18px; text-align: justify;">Helen Miller</a>, and <a href="https://ifs.org.uk/people/isaac-delestre" style="font-size: 18px; text-align: justify;">Isaac Delestre</a>)
 </p>
 <p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> This paper examines how self-employment influences individual income trajectories using novel matched administrative tax data in the United Kingdom. By linking self-assessment tax returns of business owners with their employee tax records before and after entrepreneurship, we trace income dynamics surrounding the transition into and out of self-employment. We exploit the staggered geographic rollout of food delivery platforms as an exogenous shock increasing the probability of transitioning into entrepreneurship. We explore whether self-employment serves as a viable pathway for income growth, particularly at the lower end of the income distribution.</p>
-
-
 
 <p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
     Distributional Health Effects of Food Delivery Apps
 </p>
 <p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Nutritional inequality, linked to disparities in obesity and health outcomes, is well-documented. Can digital technology-driven food supply help mitigate or exacerbate this issue? Using the staggered rollout of food delivery apps in the UK, I find that while digital access generally shifts consumption toward less healthy foods, its impact varies significantly based on pre-existing factors such as education. I find while these apps reduce spatial disparities in food access, they may intensify inequalities across other dimensions.</p>
 
-
-
 <p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
     <a href="https://www.javadshamsi.com/uploads/climate_protest.pdf" style="font-size: 18px; text-align: justify;">From Streets to Ballots: The Impact of Climate Protests on Public Awareness and Electoral Outcomes</a> (with <a href="https://azharhsain.github.io/" style="font-size: 18px; text-align: justify;">Azhar Hussain</a> and Ranjana Sinha)
 </p>
 <p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> This paper examines the impact of climate protests on public awareness and political outcomes in the US and Europe. Using data from Google Trends and GDELT, we find that climate protests significantly elevate climate change awareness, evidenced by increased search intensity and media coverage. Analyzing the 2019 European Parliamentary elections, we demonstrate that the Fridays for Future protests led to increased support for Green parties, indicating a shift in public sentiment towards environmental priorities. Through textual analysis of UK parliamentary speeches, we further observe that protest frequency correlates with a rise in climate discourse among policymakers, highlighting the potential of climate protests to shape both public opinion and political agendas.</p>
-
-
 
 <p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
     Labour Market Dynamics and Political Change in the Europe (with <a href="https://www.lse.ac.uk/economics/people/faculty/tim-besley" style="font-size: 18px; text-align: justify;">Tim Besley</a> and <a href="https://www.su.se/english/profiles/tpers-1.182602" style="font-size: 18px; text-align: justify;">Torsten Persson</a>)

@@ -22,6 +22,4 @@ I've taught various courses at LSE, consistently earning teaching evaluations we
 
 
 
-<p style="font-size: 18px; text-align: justify; margin-top: 26px; margin-bottom: 1px;">
-
-Additionally, I have taught graduate-level Applied Econometrics at Sharif University and held workshops on techniques from big data for economists.</p>
+<p style="font-size: 18px; text-align: justify; margin-top: 26px;"> Additionally, I have taught graduate-level Applied Econometrics at Sharif University and held workshops on techniques from big data for economists.</p>

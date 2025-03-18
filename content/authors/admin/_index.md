@@ -51,6 +51,4 @@ highlight_name: true
     I am a PhD candidate in Economics at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">London School of Economics</span> and a Research Officer at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Institute for Fiscal Studies</span>. My research interests lie in applied microeconomics, studying questions in labor markets, political economy, and urban economics. To explore these questions, I combine causal inference methods with tools from big data analytics, machine learning, large language models, natural language processing, image analysis, and web scraping.
 </p>
 
-<p style="font-size: 18px; text-align: justify;"> In 2023, I visited <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Princeton University</span> as a visiting student. I am currently visitng <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Haas Business School, UC Berkeley</span>.</p>
-
-<p style="font-size: 20px; text-align: justify; font-family: 'Georgia', serif; font-weight: bold;"> I will be on the job market in the 2024/25 cycle. </p>
+<p style="font-size: 18px; text-align: justify;"> In 2023, I was a visiting student at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Princeton University</span>, and later visited the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Haas Business School, UC Berkeley</span> in 2025.</p>

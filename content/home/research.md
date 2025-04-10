@@ -15,9 +15,11 @@ design:
         A New Order? Digital Disruption and Entrepreneurial Opportunities
     </a>
 </p>
-<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 30px;">
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;">
     Does the rise of digital marketplaces primarily benefit large incumbent firms or facilitate the entry of entrepreneurs, including those from minority backgrounds? This paper studies the growth of food delivery applications in the UK—UberEats and Deliveroo—and their impacts on local restaurants. To study this, I construct a novel dataset that measures the staggered spatial expansion of these apps and I employ a dynamic difference-in-differences framework. I find that app entry increases local restaurant counts (by 35%) and employment (by 12%) over four years and does not crowd out dine-in expenditures. This increase is driven by the entry of small and independent businesses, with ethnic minority entrepreneurs gaining disproportionately from lower entry costs and reduced dependence on prime locations. This democratization in entrepreneurship fosters greater diversity in cuisine offerings, enhancing consumer choice.
 </p>
+
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <span style="font-size: 14px; font-style: italic;">17th Digital Economics Conference Toulouse, CEP Annual Conference, AYEW Labour Economics Workshop, Deliveroo</span> </p> 
 
 ## Other Working Papers
 
@@ -28,9 +30,9 @@ design:
 </p>
 <p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> This paper examines which types of firms are hit by multi-layered sanctions, quantifies the extent of the economic impact on the affected firms, and identifies the channels through which these effects are propagated. To this end, I use a text-based approach from computational linguistics to gauge the exposure of publicly listed Iranian firms to sanctions, validating this measure through its anticipated fluctuation over time and across industries. The findings reveal three key insights. First, Iranian firms report significant challenges due to sanctions, exceeding COVID-19 concerns by up to 20%. Second, politically-connected and non-connected firms suffer equally from sanctions; for every $1 loss inflicted on connected firms, an externality of $5 is imposed on non-connected firms, considering their economic scale. This contradicts the idea that sanctions only inflict harm on political decision-makers. Third, sanctions are hurtful; firms with higher exposure to sanctions endure greater losses in stock market value in the wake of unanticipated sanction events. Sanctions also lead to reduced sales, investment and hiring. Furthermore, the study reveals that sanctions impact firms via several mechanisms, the primary one being the limitation of access to export destinations.</p>
 
-<p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: <a href="https://cepr.org/voxeu/columns/unravelling-complexities-sanctions";">VoxEU Column</a>, <a href="https://www.thesanctionsage.com/p/episode-4-javad-shamsi";">The Sanctions Age Podcast</a> (<a href="https://www.youtube.com/watch?v=YFoPhodCq_E";">YouTube</a>, <a href="https://open.spotify.com/episode/6icu8VQdQEIdlUy1asgUqU?si=WQl-Kr2iR1SS3H6MtluHUg";"> Spotify</a>, <a href="https://podcasts.apple.com/us/podcast/episode-4-javad-shamsi/id1740180724?i=1000653882474";"> ApplePodcast</a>), <a href="https://www.tejaratefarda.com/fa/tiny/news-45767";">Tejarate Farda</a>, <a href="https://www.rouhanihassan.com/Fa/News/104507";">RouhaniHassan.com</a>, <a href="https://donya-e-eqtesad.com/fa/tiny/news-4049379";">Donya-e Eghtesad</a>, <a href="https://www.clingendael.org/publication/limit-irans-industrial-resilience";">Clingendael</a></p>
+<p style="font-size: 16px; text-align: justify;margin-top: 1px; margin-bottom: 5px;"> Media Coverage: <a href="https://cepr.org/voxeu/columns/unravelling-complexities-sanctions";">VoxEU Column</a>, <a href="https://www.thesanctionsage.com/p/episode-4-javad-shamsi";">The Sanctions Age Podcast</a> (<a href="https://www.youtube.com/watch?v=YFoPhodCq_E";">YouTube</a>, <a href="https://open.spotify.com/episode/6icu8VQdQEIdlUy1asgUqU?si=WQl-Kr2iR1SS3H6MtluHUg";"> Spotify</a>, <a href="https://podcasts.apple.com/us/podcast/episode-4-javad-shamsi/id1740180724?i=1000653882474";"> ApplePodcast</a>), <a href="https://www.tejaratefarda.com/fa/tiny/news-45767";">Tejarate Farda</a>, <a href="https://www.rouhanihassan.com/Fa/News/104507";">RouhaniHassan.com</a>, <a href="https://donya-e-eqtesad.com/fa/tiny/news-4049379";">Donya-e Eghtesad</a>, <a href="https://www.clingendael.org/publication/limit-irans-industrial-resilience";">Clingendael</a>, <a href="https://www.youtube.com/watch?v=shYklYt7AaQ";">IIEA Webinar</a></p>
 
-<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <span style="font-size: 14px; font-style: italic;">8th Monash-Warwick-Zurich-CEPR Text-as-Data Workshop, Text-as-Data in Economics Workshop at the University of Liverpool, Political Economy, Development, and Labour seminars at LSE, UCL, TeIAS, and Princeton</span> </p>
+<p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Presentations: <span style="font-size: 14px; font-style: italic;">The International Iranian Economic Association (IIEA), 8th Monash-Warwick-Zurich-CEPR Text-as-Data Workshop, Text-as-Data in Economics Workshop at the University of Liverpool, Political Economy, Development, and Labour seminars at LSE, UCL, TeIAS, and Princeton</span> </p> 
 
 <p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
     <a href="https://www.javadshamsi.com/uploads/immigration_shamsi.pdf" style="font-size: 18px; text-align: justify;">
@@ -47,11 +49,6 @@ design:
     Distributional Health Effects of Food Delivery Apps
 </p>
 <p style="font-size: 16px; text-align: justify; margin-top: 1px; margin-bottom: 5px;"> Nutritional inequality, linked to disparities in obesity and health outcomes, is well-documented. Can digital technology-driven food supply help mitigate or exacerbate this issue? Using the staggered rollout of food delivery apps in the UK, I find that while digital access generally shifts consumption toward less healthy foods, its impact varies significantly based on pre-existing factors such as education. I find while these apps reduce spatial disparities in food access, they may intensify inequalities across other dimensions.</p>
-
-
-
-<p style="font-size: 18px; text-align: justify; margin-top: 30px; margin-bottom: 5px;">
-    The Impact of Self-Employment on Income Trajectories: Evidence from Food Delivery Platforms  (with <a href="https://katesmith.me/" style="font-size: 18px; text-align: justify;">Kate Smith</a>, <a href="https://ifs.org.uk/people/helen-miller" style="font-size: 18px; text-align: justify;">Helen Miller</a>, and <a href="https://ifs.org.uk/people/isaac-delestre" style="font-size: 18px; text-align: justify;">Isaac Delestre</a>)
 
 
 

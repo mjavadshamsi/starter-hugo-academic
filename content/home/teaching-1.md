@@ -3,7 +3,7 @@ widget: blank
 widget_id: teaching
 headless: true
 weight: 70
-title: Teaching
+title: Teaching1
 subtitle: ""
 active: true
 ---

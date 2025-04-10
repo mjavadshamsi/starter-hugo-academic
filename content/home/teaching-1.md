@@ -5,7 +5,7 @@ headless: true
 weight: 70
 title: Teaching
 subtitle: ""
-active: false
+active: true
 ---
 I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.
 

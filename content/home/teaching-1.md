@@ -9,6 +9,20 @@ active: false
 ---
 I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.
 
+I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.I've taught various courses at LSE, consistently earning teaching evaluations well above the course, department, and LSE averages.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <ul style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
@@ -20,7 +34,5 @@ I've taught various courses at LSE, consistently earning teaching evaluations we
     <li>EC100 Economics A (Evaluation: 4.5/5) 2019-2020</li>
     <li>EC102 Economics B (Evaluation: 4.8/5) Summer 2019</li>
 </ul>
-
-
 
 <p style="font-size: 18px; text-align: justify; margin-top: 26px;"> Additionally, I have taught graduate-level Applied Econometrics at Sharif University and held workshops on techniques from big data for economists.</p>

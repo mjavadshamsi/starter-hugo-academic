@@ -17,7 +17,6 @@ content:
   address:
     street: 32L.4.06
     city: Houghton Street, London WC2A 2AE
-  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab

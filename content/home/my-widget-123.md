@@ -14,5 +14,5 @@ design:
 S﻿ome of my teaching and mentoring materials.
 
 <ul style="font-size: 18px; text-align: justify; margin-top: 12px; margin-bottom: 5px;">
-    <li>Practical Web Scraping for Economists</li>
+    <li><a href="https://github.com/mjavadshamsi/web-scraping-economists/blob/main/web_scraping_toturial.pdf" style="font-size: 18px; text-align: justify;"> Practical Web Scraping for Economists </a></li>
 </ul>

@@ -1,8 +1,8 @@
 ---
 widget: blank
-widget_id: my-widget-123
+widget_id: externalities
 headless: true
-weight: 10
+weight: 75
 title: Externalities
 active: true
 design:

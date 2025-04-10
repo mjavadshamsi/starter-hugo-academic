@@ -4,7 +4,7 @@ widget_id: externalities
 headless: true
 weight: 75
 title: Externalities
-active: true
+active: false
 design:
   columns: "2"
   background:

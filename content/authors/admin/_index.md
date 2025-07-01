@@ -48,7 +48,7 @@ superuser: true
 highlight_name: true
 ---
 <p style="font-size: 18px; text-align: justify;">
-   I am an Associate at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://www.cornerstone.com" target="_blank" style="text-decoration: none; color: inherit;">Cornerstone Research</a></span>, and when I put on my academic hat, I serve as an Associate at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://cep.lse.ac.uk/" target="_blank" style="text-decoration: none; color: inherit;">Centre for Economic Performance (CEP), LSE</a></span>. My research interests lie in applied microeconomics, with a focus on labor markets and digital economics.
+   I am an Associate at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://www.cornerstone.com" target="_blank" style="text-decoration: none; color: inherit;">Cornerstone Research</a></span>, and when I put on my academic hat, I serve as an Associate at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://cep.lse.ac.uk/" target="_blank" style="text-decoration: none; color: inherit;">Centre for Economic Performance (CEP)</a>, LSE</span>. My research interests lie in applied microeconomics, with a focus on labor markets and digital economics. To explore these questions, I combine causal inference methods with tools from big data analytics, machine learning, large language models, natural language processing, image analysis, and web scraping.
 </p>
 
 <p style="font-size: 18px; text-align: justify;">

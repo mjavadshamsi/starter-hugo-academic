@@ -58,5 +58,5 @@ highlight_name: true
 
 
 <p style="font-size: 18px; text-align: justify;">\
-My research interests lie in applied microeconomics, with a focus on labor markets and digital economics. To explore these questions, I combine causal inference methods with tools from big data analytics, machine learning, large language models, natural language processing, image analysis, and web scraping.
+ My research interests lie in applied microeconomics, with a focus on labor markets and digital economics. To explore these questions, I combine causal inference methods with tools from big data analytics, machine learning, large language models, natural language processing, image analysis, and web scraping.
 </p>

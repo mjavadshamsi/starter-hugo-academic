@@ -1,11 +1,11 @@
 ---
 title: Javad Shamsi
-role: PhD Student in Economics
+role: Associate
 bio: I have no research interest
 interests:
+  - Digital Economics
   - Labor/Organizational
   - Political Economy
-  - Urban Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,7 +48,8 @@ superuser: true
 highlight_name: true
 ---
 <p style="font-size: 18px; text-align: justify;">
-    I am a PhD candidate in Economics at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">London School of Economics</span> and a Research Officer at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Institute for Fiscal Studies</span>. My research interests lie in applied microeconomics, studying questions in labor markets, political economy, and urban economics. To explore these questions, I combine causal inference methods with tools from big data analytics, machine learning, large language models, natural language processing, image analysis, and web scraping.
-</p>
+   I am an Associate at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://www.cornerstone.com" target="_blank" style="text-decoration: none; color: inherit;">Cornerstone Research</a></span>, and in my academic work, I serve as an Associate at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://cep.lse.ac.uk/" target="_blank" style="text-decoration: none; color: inherit;">Centre for Economic Performance (CEP), LSE</a></span>. 
 
-<p style="font-size: 18px; text-align: justify;"> In 2023, I was a visiting student at <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Princeton University</span>, and later visited the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Haas Business School, UC Berkeley</span> in 2025.</p>
+I received my PhD in Economics from the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">London School of Economics</span>, during which I had the opportunity to visit <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Princeton University</span>, and later the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;">Haas School of Business, UC Berkeley</span>. Previously, I also worked as a Research Officer at the <span style="font-size: 18px; font-family: 'Georgia', serif; font-weight: bold;"><a href="https://ifs.org.uk" target="_blank" style="text-decoration: none; color: inherit;">Institute for Fiscal Studies</a></span>.
+
+My research interests lie in applied microeconomics, with a focus on labor markets and digital economics. </p>

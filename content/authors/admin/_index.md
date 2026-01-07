@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.shamsi@lse.ac.uk
+    link: mailto:mjavad.shamsi@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mjavadshamsi

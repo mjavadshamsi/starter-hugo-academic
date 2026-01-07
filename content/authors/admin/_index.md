@@ -43,7 +43,7 @@ education:
     - course: BSc in Mechanical Engineering
       institution: Sharif University of Technology
       year: 2011-15
-email: m.shamsi@lse.ac.uk
+email: mjavad.shamsi@gmail.com
 superuser: true
 highlight_name: true
 ---
